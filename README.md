@@ -2,7 +2,7 @@
 *by Adamas Aqsa Fahreza and Martianus Frederic Ezerman*
 
 A proof-of-concept implementation of the Graph Joining Prefer-Opposite algorithm found in:
-> Z. Chang, M.F. Ezerman, A.A. Fahreza, and Q. Wang, "A Graph Joining Approach to Binary de Bruijn Sequences."
+> Z. Chang, M.F. Ezerman, A.A. Fahreza, and Q. Wang, "A Graph Joining Greedy Approach to Binary de Bruijn Sequences." Available at (https://arxiv.org/pdf/2004.09810)
 
 Requires the package [pydebruijn](https://github.com/adamasstokhorst/pydebruijn) to be installed, which in turn requires Python 2.
 
